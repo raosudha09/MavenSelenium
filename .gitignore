@@ -1,0 +1,15 @@
+
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+.target
+
+target/classes/com/sudha/lse/automationfw/App.class
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.sudha.lse/automationfw/pom.properties
+target/classes/META-INF/maven/com.sudha.lse/automationfw/pom.xml
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
